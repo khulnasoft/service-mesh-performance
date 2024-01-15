@@ -3,7 +3,7 @@ email: community@khulnasoft.com #this is also the email contact forms will go
 description: "Service Mesh Performance (SMP): Measure your service mesh performance using SMP. SMP provides a universal performance index to gauge your mesh’s efficiency against deployments in other organizations’ environments."
 baseurl: "" # the subpath of your site, e.g. /blog
 
-author: Layer5 Authors
+author: KhulnaSoft Authors
 twitter_username: smp
 github_username: l5io
 

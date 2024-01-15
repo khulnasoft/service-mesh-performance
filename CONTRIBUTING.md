@@ -62,7 +62,7 @@ If you face any errors during installation or setup, have a look at [Meshplay Co
   
 
 ## <a name="contributing-docs">Documentation Contribution Flow</a>
-Please contribute! All projects under Layer5 use GitHub Pages to host its documentation. Learn more about [Layer5's documentation framework](https://docs.google.com/document/d/17guuaxb0xsfutBCzyj2CT6OZiFnMu9w4PzoILXhRXSo/edit?usp=sharing). The process of contributing follows this flow:
+Please contribute! All projects under KhulnaSoft use GitHub Pages to host its documentation. Learn more about [KhulnaSoft's documentation framework](https://docs.google.com/document/d/17guuaxb0xsfutBCzyj2CT6OZiFnMu9w4PzoILXhRXSo/edit?usp=sharing). The process of contributing follows this flow:
 
 1. Create a fork, if you have not already, by following the steps described [here](./CONTRIBUTING-gitflow.md)
 1. In the local copy of your fork, navigate to the docs folder.

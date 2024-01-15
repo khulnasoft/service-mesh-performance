@@ -9,16 +9,16 @@ engage:
     subtext: "SMP Community Meetings biweekly on Thursdays at 9 - 10 AM Central."
     section: engage
     list:
-      - title: "[Learn Layer5](https://github.com/khulnasoft/learn-layer5)"
+      - title: "[Learn KhulnaSoft](https://github.com/khulnasoft/learn-layer5)"
         desc: "A sample application for learning how to service mesh."
         icon: fas fa-graduation-cap
       - title: "[Contribute](https://github.com/khulnasoft/service-mesh-performance)"
-        desc: "Get Involved. Collaborate & get started with Layer5 projects."
+        desc: "Get Involved. Collaborate & get started with KhulnaSoft projects."
         icon: fab fa-github
       - title: "[Slack](http://slack.khulnasoft.com)"
-        desc: "Join the Layer5 Slack Community & never miss any updates."
+        desc: "Join the KhulnaSoft Slack Community & never miss any updates."
         icon: fab fa-slack
-      - title: "[YouTube](https://www.youtube.com/c/Layer5io?sub_confirmation=1)"
+      - title: "[YouTube](https://www.youtube.com/c/KhulnaSoftio?sub_confirmation=1)"
         desc: "Watch community meeting recordings and learn about distributed performance management."
         icon: fab fa-youtube
       - title: "[Community Calender](https://calendar.google.com/calendar/b/1/r?cid=bGF5ZXI1LmlvX2VoMmFhOWRwZjFnNDBlbHZvYzc2MmpucGhzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)"
@@ -46,7 +46,7 @@ contributors:
     height: auto;
     horizontal-scrolling: "yes" #"yes/no"
     list:
-      - title: "Layer5"
+      - title: "KhulnaSoft"
         align: center
         logo: assets/img/contributors/layer5-white-bg-no-trim.svg
       - title: "HashiCorp"

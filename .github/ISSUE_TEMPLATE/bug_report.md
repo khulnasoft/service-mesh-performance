@@ -35,5 +35,5 @@ Add any other context about the problem here.
 
 The meshplay.io website uses Jekyll and GitHub Pages. Site content is found under the [`master` branch](https://github.com/meshplay/meshplay.io/tree/master).
 - See the [Contributing to Meshplay.io Website](https://github.com/meshplay/meshplay.io#contributing-to-the-meshplayio-website) section of the readme.md and other [contributing instructions](https://docs.meshplay.io/project/contributing), too.
-- See Meshplay site designs in this [Figma designfile](https://www.figma.com/file/SMP3zxOjZztdOLtgN4dS2W/Meshplay-UI?node-id=110%3A1). Fill-in the [Layer5 Community Member Form](https://khulnasoft.com/newcomer) and join the [Layer5 Community Slack](http://slack.khulnasoft.com) for access.
+- See Meshplay site designs in this [Figma designfile](https://www.figma.com/file/SMP3zxOjZztdOLtgN4dS2W/Meshplay-UI?node-id=110%3A1). Fill-in the [KhulnaSoft Community Member Form](https://khulnasoft.com/newcomer) and join the [KhulnaSoft Community Slack](http://slack.khulnasoft.com) for access.
 - 🎨 Wireframes and [designs for Meshplay UI](https://www.figma.com/file/SMP3zxOjZztdOLtgN4dS2W/Meshplay-UI) in Figma [(open invite)](https://www.figma.com/team_invite/redeem/qJy1c95qirjgWQODApilR9)
