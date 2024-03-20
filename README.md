@@ -5,7 +5,7 @@
 
 [![GitHub](https://img.shields.io/github/license/khulnasoft/service-mesh-performance.svg)](LICENSE)
 [![GitHub issues by-label](https://img.shields.io/github/issues/khulnasoft/service-mesh-performance/help%20wanted.svg)](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Akhulnasoft+label%3A%22help+wanted%22+")
-[![Website](https://img.shields.io/website/https/khulnasoft.com/meshplay.svg)](https://smp-spec.io)
+[![Website](https://img.shields.io/website/https/khulnasoft.com/meshplay.svg)](https://khulnasoft.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/khulnasoft.svg?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=smp_spec)
 [![Join Slack](https://img.shields.io/badge/Slack-@khulnasoft.svg?logo=slack)](http://slack.khulnasoft.com)
 [![CLI Best Practices](https://bestpractices.coreinfrastructure.org/projects/5054/badge)](https://bestpractices.coreinfrastructure.org/projects/5054)
@@ -16,7 +16,7 @@
 
 <p align="center">SMP Community Meetings are now merged into CNCF TAG-network Meetings on the 1st and 3rd Thursday of every month at 9 AM Pacific Time. (<a href="https://docs.google.com/document/d/18hYemFKK_PC_KbT_TDBUgb0rknOuIhikkRxer4_bv4Q/edit">Meeting Minutes</a> | <a href="https://zoom.us/my/cncftagnetwork">Zoom</a>)</p>
 
-# [Service Mesh Performance](https://smp-spec.io) (SMP)
+# [Service Mesh Performance](https://khulnasoft.github.io) (SMP)
 A common format for capturing and describing:
 
 1. performance test configuration
