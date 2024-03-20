@@ -21,13 +21,13 @@ Service Mesh Interface provides a standard interface for service meshes on Kuber
 
 As a service mesh agnostic tool that provides lifecycle and performance management of a large number of (10+) service meshes, Kubernetes applications, service mesh patterns and WebAssembly filters, Meshplay is the ideal tool for the job when it comes to implementing these specifications.
 
-Meshplay also comes with two new GitHub Actions that do exactly this. The <a href="https://github.com/khulnasoft/meshplay-smi-conformance-action">Meshplay SMI Conformance Action</a> which validates <a href="https://meshplay.io/blog/validating-smi-conformance-with-meshplay">SMI conformance in your pipeline</a> and the <a href="https://github.com/khulnasoft/meshplay-smp-action">Meshplay SMP Action</a> which runs <a href="SMP compatible performance benchmarks">SMP compatible performance benchmarks</a>.
+Meshplay also comes with two new GitHub Actions that do exactly this. The <a href="https://github.com/khulnasoft/meshplay-smi-conformance-action">Meshplay SMI Conformance Action</a> which validates <a href="https://meshplay.khulnasoft.com/blog/validating-smi-conformance-with-meshplay">SMI conformance in your pipeline</a> and the <a href="https://github.com/khulnasoft/meshplay-smp-action">Meshplay SMP Action</a> which runs <a href="SMP compatible performance benchmarks">SMP compatible performance benchmarks</a>.
 
 But how do we use these actions? What do they offer? Let’s find out!
 
 #### Service Mesh Interface Conformance GitHub Action
 
-Conformance of SMI specifications is defined as a series of test assertions. These test assertions are categorised by SMI specification (of which, there are currently four specifications) and comprise the complete suite of SMI conformance tests. Conformance requirements will change appropriately as each new version of the SMI spec is released. Refer to Meshplay's documentation for details of how <a href="https://docs.meshplay.io/functionality/service-mesh-interface">Meshplay performs SMI conformance.</a>
+Conformance of SMI specifications is defined as a series of test assertions. These test assertions are categorised by SMI specification (of which, there are currently four specifications) and comprise the complete suite of SMI conformance tests. Conformance requirements will change appropriately as each new version of the SMI spec is released. Refer to Meshplay's documentation for details of how <a href="https://docs.meshplay.khulnasoft.com/functionality/service-mesh-interface">Meshplay performs SMI conformance.</a>
 
 **Using Meshplay's SMI Conformance GitHub Action** 
 
@@ -104,7 +104,7 @@ You can download a token from Meshplay and add it as a GitHub secret (in the exa
 <img width="90%" src="/assets/img/blogs/smi-conformance-result.png" alt="smi conformance dashboard">
 </div>
 
-Participating service mesh projects can also <a href="https://docs.meshplay.io/functionality/service-mesh-interface#reporting-conformance">automatically report their conformance test results</a> to the <a href="https://meshplay.io/service-mesh-interface">SMI Conformance dashboard</a>
+Participating service mesh projects can also <a href="https://docs.meshplay.khulnasoft.com/functionality/service-mesh-interface#reporting-conformance">automatically report their conformance test results</a> to the <a href="https://meshplay.khulnasoft.com/service-mesh-interface">SMI Conformance dashboard</a>
 
 #### Service Mesh Performance GitHub Action
 
@@ -176,7 +176,7 @@ See this sample GitHub workflow (<a href="https://github.com/khulnasoft/meshplay
 <img width="90%" src="/assets/img/blogs/service-mesh-performance-profile-test-results.png" alt="performance management dashboard">
 </div>
 
-The results from the tests are updated on the Performance Management dashboard in Meshplay. To learn more about interpreting the test results, check out <a href="https://docs.meshplay.io/guides/interpreting-performance-test-results">this guide</a>. You can always checkout the <a href="https://docs.meshplay.io/guides">Meshplay User Guides</a> to dive deep into these features.
+The results from the tests are updated on the Performance Management dashboard in Meshplay. To learn more about interpreting the test results, check out <a href="https://docs.meshplay.khulnasoft.com/guides/interpreting-performance-test-results">this guide</a>. You can always checkout the <a href="https://docs.meshplay.khulnasoft.com/guides">Meshplay User Guides</a> to dive deep into these features.
 
 Stay meshy!
 

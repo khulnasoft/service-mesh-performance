@@ -9,7 +9,7 @@ engage:
     subtext: "SMP Community Meetings biweekly on Thursdays at 9 - 10 AM Central."
     section: engage
     list:
-      - title: "[Learn KhulnaSoft](https://github.com/khulnasoft/learn-layer5)"
+      - title: "[Learn KhulnaSoft](https://github.com/khulnasoft/learn-khulnasoft)"
         desc: "A sample application for learning how to service mesh."
         icon: fas fa-graduation-cap
       - title: "[Contribute](https://github.com/khulnasoft/service-mesh-performance)"
@@ -48,7 +48,7 @@ contributors:
     list:
       - title: "KhulnaSoft"
         align: center
-        logo: assets/img/contributors/layer5-white-bg-no-trim.svg
+        logo: assets/img/contributors/khulnasoft-white-bg-no-trim.svg
       - title: "HashiCorp"
         align: center
         logo: assets/img/contributors/HashiCorp_PrimaryLogo_Black_RGB.svg
@@ -85,13 +85,13 @@ subscribe:
 
 footer:
     social:
-      - url: https://github.com/service-mesh-performance/service-mesh-performance
+      - url: https://github.com/khulnasoft/service-mesh-performance
         icon: "fab fa-github"
       - url: http://slack.khulnasoft.com/
         icon: "fab fa-slack"
       - url: https://twitter.com/smp_spec
         icon: "fab fa-twitter-square"
-      - url: https://www.linkedin.com/company/layer5
+      - url: https://www.linkedin.com/company/khulnasoft
         icon: "fab fa-linkedin"
       - url: https://khulnasoft.com/community
         icon: "fas fa-users"

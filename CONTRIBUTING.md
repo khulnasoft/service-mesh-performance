@@ -5,7 +5,7 @@ All contributors are welcome. Not sure where to start? Please see the [newcomers
 
 All set to contribute? Grab an open issue with the [help-wanted label](../../labels/help%20wanted) and jump in. Join the [Slack channel](http://slack.khulnasoft.com) and engage in conversation. Create a [new issue](/../../issues/new/choose) if needed.  All [pull requests](/../../pulls) should reference an open [issue](/../../issues). Include keywords in your pull request descriptions, as well as commit messages, to [automatically close issues in GitHub](https://help.github.com/en/github/managing-your-work-on-github/closing-issues-using-keywords).
 
-Note- SMP prominently and consistently engages with the Meshplay Project. For a more complete set of contributing guides see docs.meshplay.io/project/contributing.
+Note- SMP prominently and consistently engages with the Meshplay Project. For a more complete set of contributing guides see docs.meshplay.khulnasoft.com/project/contributing.
 
 # <a name="contributing">General Contribution Flow</a>
 
@@ -58,7 +58,7 @@ Or you may configure your IDE, for example, Visual Studio Code to automatically 
 
 After successful installation, proceed with the following [steps](https://jekyllrb.com/docs/installation/windows/#installation-via-bash-on-windows-10) to run Jekyll on WSL.
 
-If you face any errors during installation or setup, have a look at [Meshplay Contributing Docs](https://docs.meshplay.io/project/contributing-docs) to find a possible solution. 
+If you face any errors during installation or setup, have a look at [Meshplay Contributing Docs](https://docs.meshplay.khulnasoft.com/project/contributing-docs) to find a possible solution. 
   
 
 ## <a name="contributing-docs">Documentation Contribution Flow</a>
@@ -76,4 +76,4 @@ Please contribute! All projects under KhulnaSoft use GitHub Pages to host its do
 * **Note:** *From the Makefile, this command is actually running `$ bundle exec jekyll serve --drafts --livereload`. There are two Jekyll configuration, `jekyll serve` for developing locally and `jekyll build` when deploying for production based on differences of the handling of trailing slashes between Jekyll and GitHub Pages.*
 1. Commit, [sign-off](#commit-signing), and push changes to your remote branch.
 `git push origin <my-changes>`
-1. Open a pull request (in your web browser) against our main repo: https://github.com/service-mesh-performance/service-mesh-performance.
+1. Open a pull request (in your web browser) against our main repo: https://github.com/khulnasoft/service-mesh-performance.

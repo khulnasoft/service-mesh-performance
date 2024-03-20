@@ -27,4 +27,4 @@ CNCF Community Infrastructure Lab resources is contributed and managed by [Equin
 
 <a href="/pages/dashboard/methodology/smp-action-sequence-diagram.jpg"><img src="/pages/dashboard/methodology/smp-action-sequence-diagram.jpg" width="100%" /></a>
 
-The results from the tests are updated on the Performance Management dashboard in Meshplay. To learn more about interpreting the test results, check out this guide. You can always checkout the [Meshplay User Guides](https://docs.meshplay.io) to dive-deep into these features.
+The results from the tests are updated on the Performance Management dashboard in Meshplay. To learn more about interpreting the test results, check out this guide. You can always checkout the [Meshplay User Guides](https://docs.meshplay.khulnasoft.com) to dive-deep into these features.
